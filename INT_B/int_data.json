@@ -1,0 +1,32 @@
+{
+    "swid2": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "280us", 
+        "queue_delay": "43us"
+    }, 
+    "swid3": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "320us", 
+        "queue_delay": "49us"
+    }, 
+    "swid1": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "534us", 
+        "queue_delay": "71us"
+    }, 
+    "swid6": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "319us", 
+        "queue_delay": "62us"
+    }, 
+    "swid4": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "295us", 
+        "queue_delay": "48us"
+    }, 
+    "swid5": {
+        "queue_depth": "0pkt", 
+        "hop_delay": "366us", 
+        "queue_delay": "52us"
+    }
+}

@@ -1,0 +1,6 @@
+DUID:1
+CPU_count: 4
+CPU_percent: 3.7%
+Memory_total:12073.07MB
+Memory_percent:53.7
+GPU:0
